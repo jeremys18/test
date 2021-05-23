@@ -5,3 +5,10 @@ C:\Users\Jerem\source\repos\J_J_App_1\Jermy and Jeremiah app 1\obj\Debug\Jermy a
 C:\Users\Jerem\source\repos\J_J_App_1\Jermy and Jeremiah app 1\obj\Debug\Jermy and Jeremiah app 1.csproj.CoreCompileInputs.cache
 C:\Users\Jerem\source\repos\J_J_App_1\Jermy and Jeremiah app 1\obj\Debug\Jermy and Jeremiah app 1.exe
 C:\Users\Jerem\source\repos\J_J_App_1\Jermy and Jeremiah app 1\obj\Debug\Jermy and Jeremiah app 1.pdb
+C:\Repos\test\J_J_App_1\Jermy and Jeremiah app 1\bin\Debug\Jermy and Jeremiah app 1.exe.config
+C:\Repos\test\J_J_App_1\Jermy and Jeremiah app 1\bin\Debug\Jermy and Jeremiah app 1.exe
+C:\Repos\test\J_J_App_1\Jermy and Jeremiah app 1\bin\Debug\Jermy and Jeremiah app 1.pdb
+C:\Repos\test\J_J_App_1\Jermy and Jeremiah app 1\obj\Debug\Jermy and Jeremiah app 1.csprojAssemblyReference.cache
+C:\Repos\test\J_J_App_1\Jermy and Jeremiah app 1\obj\Debug\Jermy and Jeremiah app 1.csproj.CoreCompileInputs.cache
+C:\Repos\test\J_J_App_1\Jermy and Jeremiah app 1\obj\Debug\Jermy and Jeremiah app 1.exe
+C:\Repos\test\J_J_App_1\Jermy and Jeremiah app 1\obj\Debug\Jermy and Jeremiah app 1.pdb

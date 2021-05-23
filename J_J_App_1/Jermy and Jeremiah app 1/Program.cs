@@ -55,17 +55,7 @@ namespace Jermy_and_Jeremiah_app_1
             //String add = Console.ReadLine();
             //Console.WriteLineLine(output + add);
             //Console.Read();
-        }
-
-        private static int gg()
-        {
-            nummy2++;
-            return nummy2;
-        }
-
-        private static void hh()
-        {
-
+        
         }
     } 
       

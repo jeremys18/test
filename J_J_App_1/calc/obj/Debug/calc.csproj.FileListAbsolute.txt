@@ -1,0 +1,7 @@
+C:\Repos\test\J_J_App_1\calc\bin\Debug\calc.exe.config
+C:\Repos\test\J_J_App_1\calc\bin\Debug\calc.exe
+C:\Repos\test\J_J_App_1\calc\bin\Debug\calc.pdb
+C:\Repos\test\J_J_App_1\calc\obj\Debug\calc.csprojAssemblyReference.cache
+C:\Repos\test\J_J_App_1\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+C:\Repos\test\J_J_App_1\calc\obj\Debug\calc.exe
+C:\Repos\test\J_J_App_1\calc\obj\Debug\calc.pdb
