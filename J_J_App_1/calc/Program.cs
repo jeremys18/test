@@ -7,7 +7,7 @@ namespace calc
     {
         static void Main()
         {
-           new Program().Start(); 
+            new Program().Start();
         }
 
         void Start()
@@ -23,8 +23,14 @@ namespace calc
             do
             {
                 Console.WriteLine(firstPrompt);
-                choice = int.Parse(Console.ReadLine());
-                if (choice != 5&& validChoices.Contains(choice))
+
+                while (!int.TryParse(Console.ReadLine(), out choice))
+                {
+
+                    Console.WriteLine("Selection not valid!\r\n");
+                }
+
+                if (choice != 5 && validChoices.Contains(choice))
                 {
                     d1 = GetDecimalInput(firstNumberPrompt);
                     d2 = GetDecimalInput(secondNumberPrompt);
@@ -60,8 +66,14 @@ namespace calc
         decimal GetDecimalInput(string mesage)
         {
             Console.WriteLine(mesage);
-            var result = decimal.Parse(Console.ReadLine());
-            return result;
+            decimal parse =0;
+            while(!decimal.TryParse(Console.ReadLine(), out parse))
+            {
+                Console.WriteLine("nuh uh! Try again!\r\n");
+
+            }
+
+            return parse;
         }
     }
 }

@@ -1,0 +1,7 @@
+C:\Repos\test\J_J_App_1\InterfaceExamples\bin\Debug\InterfaceExamples.exe.config
+C:\Repos\test\J_J_App_1\InterfaceExamples\bin\Debug\InterfaceExamples.exe
+C:\Repos\test\J_J_App_1\InterfaceExamples\bin\Debug\InterfaceExamples.pdb
+C:\Repos\test\J_J_App_1\InterfaceExamples\obj\Debug\InterfaceExamples.csprojAssemblyReference.cache
+C:\Repos\test\J_J_App_1\InterfaceExamples\obj\Debug\InterfaceExamples.csproj.CoreCompileInputs.cache
+C:\Repos\test\J_J_App_1\InterfaceExamples\obj\Debug\InterfaceExamples.exe
+C:\Repos\test\J_J_App_1\InterfaceExamples\obj\Debug\InterfaceExamples.pdb

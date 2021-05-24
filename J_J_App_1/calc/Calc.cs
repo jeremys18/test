@@ -16,7 +16,13 @@ namespace calc
 
         static public decimal Divide (decimal d1, decimal d2)
         {
+            if (d2 == 0)
+            {
+                throw new Exception("Cannot divide by 0 you psycho!!");
+            }
+
             decimal s = d1 / d2;
+
             return (s);
         }
         static public decimal Add(decimal d1, decimal d2)

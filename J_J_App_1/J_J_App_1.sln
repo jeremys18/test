@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jermy and Jeremiah app 1", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calc", "calc\calc.csproj", "{1808C03C-EB80-4273-A565-2B245F9A68AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWpf", "TestWpf\TestWpf.csproj", "{01AA5988-66DE-4F93-A38C-D877F87C974A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceExamples", "InterfaceExamples\InterfaceExamples.csproj", "{758D8127-B0DA-415C-8E3C-A0A63475E356}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{1808C03C-EB80-4273-A565-2B245F9A68AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1808C03C-EB80-4273-A565-2B245F9A68AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1808C03C-EB80-4273-A565-2B245F9A68AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01AA5988-66DE-4F93-A38C-D877F87C974A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01AA5988-66DE-4F93-A38C-D877F87C974A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01AA5988-66DE-4F93-A38C-D877F87C974A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01AA5988-66DE-4F93-A38C-D877F87C974A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{758D8127-B0DA-415C-8E3C-A0A63475E356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{758D8127-B0DA-415C-8E3C-A0A63475E356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{758D8127-B0DA-415C-8E3C-A0A63475E356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{758D8127-B0DA-415C-8E3C-A0A63475E356}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
